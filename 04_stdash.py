@@ -66,17 +66,6 @@ def load_infos_gen(data):
 
 
 
-#def identite_client(data, id):
-    #data_client = data[data.index == id]
-    #return data_client
-
-
-
-
-
-
-
-
 # ------------ Définir la configuration de base pour streamlit -------
 st.set_page_config(layout="wide")
 
